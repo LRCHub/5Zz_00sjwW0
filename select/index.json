@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いいじゃない",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-14T03:22:58.864439Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いいじゃない",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_いいじゃない_MIMI.txt"
+    }
+  ]
+}
